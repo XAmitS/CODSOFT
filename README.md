@@ -1,2 +1,2 @@
-# CODSOFT
-Codsoft  all the Tasks
+# Practice
+Practice  all the Tasks
